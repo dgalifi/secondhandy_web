@@ -37,10 +37,6 @@ testem.log
 /e2e/*.js
 /e2e/*.map
 
-# app
-app/**/*.js
-app/**/*.js.map
-
 # System Files
 .DS_Store
 Thumbs.db
